@@ -26,7 +26,7 @@ from supabase import Client, create_client
 # CONFIGURATION
 # ============================================================
 
-BOT_TOKEN = "8868005439:AAHGetUn8FwoJNO1VwKWyywr08wP-f1vWDU"
+BOT_TOKEN = "8879890822:AAFTY1YXsJ_gLkhlRozCtOdJNLHbdeczmmY"
 
 ADMIN_IDS = [
     8863002910,
